@@ -1,0 +1,42 @@
+[
+    {
+        "id": "1",
+        "index": "1",
+        "tags": [
+            { "code": "story", "value": "adventure" },
+            { "code": "character", "value": "hero" },
+            { "code": "location", "value": "forest" }
+        ],
+        "body": "some text"
+    },
+    {
+        "id": "2",
+        "index": "1",
+        "tags": [
+            { "code": "story", "value": "mystery" },
+            { "code": "character", "value": "detective" },
+            { "code": "location", "value": "city" }
+        ],
+        "body": "some text"
+    },
+    {
+        "id": "3",
+        "index": "3",
+        "tags": [
+            { "code": "story", "value": "fantasy" },
+            { "code": "character", "value": "wizard" },
+            { "code": "location", "value": "castle" }
+        ],
+        "body": "some text"
+    },
+    {
+        "id": "4",
+        "index": "4",
+        "tags": [
+            { "code": "story", "value": "sci-fi" },
+            { "code": "character", "value": "alien" },
+            { "code": "location", "value": "space" }
+        ],
+        "body": "some text"
+    }
+]
